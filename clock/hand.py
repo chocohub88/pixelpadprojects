@@ -1,3 +1,5 @@
+# function
+
 import math
 class Hand():
     def __init__ (self, obj, sprite_name, x_scale, y_scale, dist, initial, step, start_x, start_y):
